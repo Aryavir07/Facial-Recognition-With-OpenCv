@@ -1,3 +1,3 @@
-# Facial-Recognition-With-OpenCv
+# Face-Recognition-With-OpenCv
 More Features To be added soon 
 and Will be deployed on web 
